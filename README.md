@@ -6,9 +6,3 @@ I am currently studying in Computer Science and Engineering.
 Along side I am doing Web development and App development at Tutora
 
 Skills: REACT / JS / HTML / CSS / Flutter / C / C++ / Node JS / 
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
