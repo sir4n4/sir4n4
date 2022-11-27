@@ -1,4 +1,4 @@
-### Hi there 👋,  Sojibul Islam Rana
+### I am, Sojibul Islam Rana
 #### Software Developer | Competitive Programmer
 ![Software Developer | Competitive Programmer](https://github.com/sir4n4/sir4n4/blob/main/gitbanner.png)
 
