@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋,  Sojibul Islam Rana
+#### Software Developer | Competitive Programmer
+![Software Developer | Competitive Programmer](https://github.com/sir4n4/sir4n4/blob/main/gitbanner.png)
 
-<!--
-**sir4n4/sir4n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying in Computer Science and Engineering.
+Along side I am doing Web development and App development at Tutora
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / Flutter / C / C++ / Node JS / 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
